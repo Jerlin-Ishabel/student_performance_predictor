@@ -1,0 +1,101 @@
+Age,Gender,Study_Hours,Sleep_Quality,Focus_Level,Mood,Device_Used,Study_Goal,Lighting,Background_Noise,Note_Taking_Method,Session_Type,Major,Internet_Use,Retention_Score,Performance
+20,Female,8,5,8,Happy,Laptop,Pass Exam,Natural,Noise,None,Group,Commerce,Online Class,81,Low
+23,Male,5,5,6,Neutral,Tablet,Pass Exam,Natural,Music,Digital,Solo,Medicine,Entertainment,40,Low
+22,Male,8,8,4,Neutral,Tablet,Pass Exam,Natural,Noise,Digital,Solo,Arts,Research,44,Low
+25,Other,5,5,7,Neutral,Mobile,Score High,Natural,Silent,Digital,Group,Commerce,Online Class,100,High
+21,Female,5,5,5,Happy,Mobile,Score High,Dim,Silent,Digital,Solo,Science,Online Class,44,Low
+21,Male,5,10,10,Sad,Tablet,Pass Exam,Bright,Music,Digital,Solo,Arts,Entertainment,91,Low
+17,Female,8,9,3,Happy,Laptop,Pass Exam,Bright,Noise,Paper,Group,Commerce,Entertainment,66,Low
+17,Other,5,10,8,Happy,Laptop,Understand Topic,Natural,Silent,Paper,Group,Engineering,Research,52,Low
+19,Female,3,7,3,Neutral,Tablet,Pass Exam,Bright,Silent,None,Solo,Medicine,Online Class,56,High
+24,Male,2,10,9,Neutral,Mobile,Score High,Dim,Music,Paper,Group,Arts,Online Class,89,Low
+23,Male,7,5,10,Neutral,Mobile,Score High,Dim,Noise,Paper,Solo,Commerce,Entertainment,59,High
+19,Male,2,4,7,Sad,Laptop,Score High,Dim,Noise,Paper,Solo,Commerce,Research,43,High
+23,Male,7,10,5,Sad,Tablet,Understand Topic,Natural,Silent,Digital,Group,Medicine,Communication,45,Low
+24,Male,1,8,1,Happy,Tablet,Pass Exam,Natural,Noise,None,Solo,Engineering,Communication,61,High
+24,Other,8,4,3,Sad,Laptop,Score High,Natural,Noise,Digital,Group,Science,Online Class,92,High
+19,Male,6,9,1,Sad,Mobile,Pass Exam,Dim,Silent,Paper,Solo,Medicine,Research,82,High
+24,Male,6,10,8,Happy,Mobile,Score High,Dim,Music,Digital,Solo,Medicine,Online Class,85,Low
+24,Male,7,8,3,Happy,Mobile,Understand Topic,Dim,Silent,Digital,Group,Medicine,Research,96,High
+22,Other,4,6,7,Sad,Laptop,Pass Exam,Bright,Silent,Paper,Group,Arts,Online Class,83,Medium
+25,Male,3,9,3,Happy,Mobile,Understand Topic,Bright,Silent,None,Solo,Engineering,Entertainment,54,Low
+21,Male,7,5,6,Sad,Laptop,Score High,Dim,Noise,Digital,Group,Commerce,Online Class,59,Low
+22,Female,7,4,9,Happy,Tablet,Pass Exam,Dim,Silent,Paper,Group,Arts,Online Class,97,Low
+18,Male,7,4,3,Neutral,Mobile,Understand Topic,Dim,Silent,Digital,Group,Arts,Online Class,72,High
+25,Other,2,9,4,Neutral,Mobile,Score High,Natural,Silent,None,Solo,Commerce,Entertainment,69,Low
+20,Other,2,9,1,Happy,Laptop,Understand Topic,Natural,Noise,Paper,Group,Science,Entertainment,52,Low
+23,Female,5,8,9,Neutral,Mobile,Pass Exam,Dim,Music,Paper,Solo,Science,Communication,89,Medium
+23,Male,2,6,2,Happy,Tablet,Pass Exam,Bright,Music,Digital,Solo,Commerce,Communication,67,Low
+23,Male,5,8,3,Neutral,Laptop,Pass Exam,Natural,Music,None,Solo,Engineering,Communication,59,High
+20,Other,6,10,7,Happy,Tablet,Score High,Natural,Noise,Paper,Group,Arts,Communication,46,Low
+21,Other,4,8,6,Sad,Laptop,Understand Topic,Natural,Noise,Paper,Group,Medicine,Entertainment,45,Medium
+19,Female,7,9,4,Happy,Laptop,Understand Topic,Bright,Noise,None,Group,Arts,Online Class,51,Low
+21,Male,1,10,3,Sad,Laptop,Understand Topic,Dim,Noise,None,Solo,Engineering,Communication,43,Low
+17,Female,2,9,1,Sad,Laptop,Pass Exam,Dim,Silent,Paper,Group,Commerce,Entertainment,76,Low
+25,Male,3,10,1,Happy,Mobile,Score High,Dim,Music,Digital,Solo,Arts,Online Class,48,Low
+22,Other,8,8,10,Neutral,Mobile,Understand Topic,Natural,Music,Digital,Group,Engineering,Research,65,High
+17,Other,8,10,8,Happy,Mobile,Pass Exam,Dim,Noise,Paper,Group,Commerce,Communication,44,High
+18,Male,3,9,1,Sad,Mobile,Pass Exam,Dim,Silent,Digital,Solo,Medicine,Online Class,41,High
+24,Other,5,9,4,Neutral,Tablet,Understand Topic,Dim,Silent,Paper,Group,Commerce,Entertainment,98,Medium
+24,Female,1,4,1,Happy,Mobile,Understand Topic,Dim,Silent,Digital,Group,Commerce,Research,96,Medium
+17,Other,5,10,7,Neutral,Laptop,Understand Topic,Dim,Music,Paper,Solo,Medicine,Entertainment,74,Medium
+23,Female,4,8,3,Sad,Tablet,Understand Topic,Natural,Noise,Paper,Solo,Engineering,Research,71,Low
+20,Male,4,10,10,Neutral,Laptop,Understand Topic,Bright,Music,Paper,Solo,Engineering,Communication,56,Low
+19,Other,8,5,7,Happy,Mobile,Understand Topic,Natural,Noise,Paper,Solo,Arts,Research,40,High
+24,Other,6,7,6,Happy,Laptop,Score High,Natural,Silent,Paper,Solo,Engineering,Entertainment,53,Low
+18,Other,5,5,5,Neutral,Tablet,Pass Exam,Dim,Silent,None,Solo,Engineering,Communication,83,High
+22,Female,6,5,5,Neutral,Mobile,Understand Topic,Bright,Noise,None,Solo,Medicine,Online Class,83,Low
+23,Other,1,9,5,Sad,Mobile,Pass Exam,Dim,Music,None,Solo,Medicine,Communication,93,Medium
+20,Male,7,9,10,Neutral,Mobile,Pass Exam,Natural,Silent,Paper,Group,Commerce,Research,64,High
+17,Female,4,8,4,Happy,Mobile,Pass Exam,Natural,Noise,None,Solo,Commerce,Entertainment,61,High
+25,Other,1,7,3,Sad,Mobile,Pass Exam,Natural,Noise,Digital,Group,Medicine,Research,49,Medium
+22,Female,2,7,3,Sad,Tablet,Pass Exam,Bright,Music,Digital,Group,Science,Entertainment,85,High
+19,Other,5,4,7,Happy,Tablet,Pass Exam,Dim,Music,Digital,Solo,Science,Online Class,41,Medium
+19,Male,2,7,9,Happy,Tablet,Understand Topic,Dim,Noise,Paper,Solo,Engineering,Online Class,87,High
+22,Female,7,5,1,Happy,Tablet,Understand Topic,Dim,Noise,Paper,Group,Science,Entertainment,45,Medium
+21,Other,7,4,9,Happy,Laptop,Pass Exam,Natural,Silent,None,Solo,Medicine,Research,44,High
+20,Other,1,5,5,Happy,Tablet,Understand Topic,Bright,Music,None,Group,Commerce,Online Class,80,Low
+24,Other,5,4,10,Neutral,Mobile,Score High,Bright,Music,None,Group,Medicine,Research,96,High
+20,Male,7,5,3,Neutral,Laptop,Understand Topic,Bright,Music,Digital,Group,Commerce,Online Class,80,Low
+18,Male,7,6,8,Happy,Laptop,Pass Exam,Natural,Silent,Paper,Group,Engineering,Online Class,44,High
+20,Other,6,5,7,Neutral,Mobile,Pass Exam,Natural,Silent,Paper,Group,Engineering,Entertainment,81,High
+25,Female,1,7,6,Neutral,Laptop,Score High,Bright,Music,Paper,Solo,Engineering,Communication,58,Medium
+22,Male,6,9,5,Neutral,Laptop,Understand Topic,Natural,Noise,Paper,Solo,Engineering,Communication,51,High
+22,Male,8,10,9,Sad,Laptop,Score High,Bright,Silent,Paper,Group,Arts,Communication,68,Medium
+25,Female,8,8,1,Neutral,Mobile,Pass Exam,Dim,Noise,Paper,Group,Medicine,Communication,51,Medium
+22,Female,5,9,2,Sad,Tablet,Pass Exam,Dim,Music,Paper,Group,Commerce,Online Class,66,Medium
+22,Other,8,9,4,Happy,Laptop,Pass Exam,Bright,Noise,Digital,Solo,Arts,Research,88,High
+22,Female,6,6,10,Happy,Mobile,Understand Topic,Bright,Noise,None,Group,Arts,Entertainment,81,High
+23,Female,6,10,9,Happy,Laptop,Pass Exam,Natural,Music,Digital,Solo,Commerce,Research,65,Medium
+18,Male,7,10,10,Sad,Laptop,Score High,Natural,Silent,Digital,Solo,Science,Online Class,82,Medium
+23,Female,5,10,8,Sad,Laptop,Pass Exam,Natural,Silent,Digital,Group,Arts,Research,91,High
+24,Male,3,4,9,Sad,Tablet,Score High,Natural,Music,Digital,Group,Arts,Communication,79,High
+18,Female,3,7,3,Happy,Mobile,Understand Topic,Dim,Music,None,Group,Arts,Online Class,78,High
+18,Female,1,10,1,Happy,Laptop,Understand Topic,Bright,Silent,None,Solo,Arts,Research,61,Medium
+23,Male,1,4,10,Sad,Mobile,Score High,Bright,Noise,None,Solo,Engineering,Online Class,50,High
+25,Male,6,6,10,Happy,Laptop,Pass Exam,Bright,Silent,Paper,Solo,Commerce,Communication,52,High
+24,Female,8,8,8,Sad,Laptop,Score High,Dim,Silent,None,Solo,Science,Online Class,50,Medium
+21,Female,1,5,3,Sad,Tablet,Understand Topic,Dim,Noise,None,Solo,Commerce,Entertainment,96,Medium
+25,Male,6,7,2,Happy,Tablet,Score High,Dim,Noise,Digital,Group,Medicine,Communication,58,Medium
+24,Other,8,9,2,Sad,Tablet,Score High,Natural,Music,Digital,Solo,Arts,Research,89,High
+24,Other,6,10,6,Happy,Laptop,Score High,Natural,Noise,Digital,Group,Science,Entertainment,53,Low
+19,Female,5,5,3,Sad,Mobile,Understand Topic,Dim,Music,None,Solo,Commerce,Online Class,85,Medium
+19,Other,1,6,6,Sad,Laptop,Understand Topic,Bright,Music,None,Solo,Commerce,Research,100,High
+24,Other,3,4,1,Sad,Mobile,Score High,Dim,Silent,None,Solo,Commerce,Research,57,Low
+22,Male,3,10,3,Happy,Laptop,Pass Exam,Dim,Noise,None,Solo,Arts,Communication,57,High
+23,Other,4,9,5,Sad,Tablet,Pass Exam,Natural,Silent,None,Group,Arts,Online Class,41,High
+21,Female,3,6,3,Happy,Mobile,Pass Exam,Natural,Music,Paper,Solo,Medicine,Research,98,Low
+21,Female,6,7,6,Happy,Mobile,Pass Exam,Dim,Music,Paper,Solo,Medicine,Online Class,67,Low
+22,Male,5,5,2,Neutral,Laptop,Score High,Bright,Noise,Digital,Group,Commerce,Research,86,High
+24,Male,1,8,4,Happy,Mobile,Score High,Natural,Silent,Digital,Solo,Science,Entertainment,41,High
+24,Male,6,4,9,Sad,Tablet,Pass Exam,Dim,Music,None,Group,Science,Communication,75,High
+18,Other,8,6,8,Sad,Tablet,Score High,Natural,Noise,Digital,Group,Medicine,Online Class,80,Medium
+22,Male,7,8,7,Happy,Laptop,Pass Exam,Bright,Music,Paper,Group,Engineering,Communication,78,High
+24,Other,3,5,7,Sad,Laptop,Understand Topic,Dim,Music,Digital,Group,Commerce,Communication,53,Medium
+17,Other,8,5,6,Sad,Tablet,Pass Exam,Dim,Noise,None,Solo,Arts,Research,65,Low
+20,Male,2,4,9,Sad,Tablet,Score High,Natural,Silent,None,Group,Science,Communication,45,High
+24,Male,3,10,7,Neutral,Laptop,Score High,Bright,Music,None,Solo,Commerce,Research,40,Low
+23,Male,8,10,4,Neutral,Tablet,Understand Topic,Dim,Music,Paper,Solo,Arts,Online Class,54,Low
+18,Male,7,4,7,Sad,Mobile,Understand Topic,Bright,Silent,Digital,Group,Medicine,Entertainment,41,Medium
+19,Other,6,10,5,Happy,Laptop,Understand Topic,Natural,Noise,Paper,Group,Science,Online Class,96,Medium
+20,Other,7,10,6,Happy,Mobile,Understand Topic,Bright,Music,Digital,Solo,Science,Research,91,High
