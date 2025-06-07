@@ -84,12 +84,32 @@ Collected data from students on study habits, mental focus, device use, sleep, a
 
 ---
 
-🔗 **Live Demo:** *(Add your Streamlit link here when deployed)*
+🔗 **Live Demo:** *https://studentperformancepredictor-ckrsydszmapaxqfimccrvm.streamlit.app/*
+
 📁 **Dataset:** Student\_Performance\_Study.csv
+
 📌 **Performance Levels:**
 
 * `0 → Low`
 * `1 → Moderate`
 * `2 → High`
+
+ | Tool / Library          | Purpose                             |
+| ----------------------- | ----------------------------------- |
+| **Python**              | Main programming language           |
+| **Pandas, NumPy**       | Data manipulation                   |
+| **scikit-learn**        | Machine learning model              |
+| **Matplotlib, Seaborn** | Data visualization                  |
+| **Streamlit**           | Web app frontend                    |
+| **ReportLab**           | PDF report generation               |
+| **Joblib**              | Saving and loading model and scaler |
+
+
+📌 Conclusion
+This project successfully demonstrates the power of machine learning in predicting real-life outcomes and promoting behavioral improvement. By creating a student-focused application, it not only empowers users to reflect on their habits but also encourages them to make data-backed changes to enhance their academic journey.
+
+https://github.com/user-attachments/assets/7ea1130a-8018-43b2-8e27-de0cf4456dd9
+
+
 
 
